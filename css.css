@@ -1,0 +1,36 @@
+#relogio{
+    font-family: "Exile";
+    font-size: large;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+#cronometro{
+    font-family: "Exile";
+    font-size: large;
+    text-align: center;
+    color: #fff;
+    border: 10px;
+    border-radius: 10%;
+    
+}
+button{
+    background-color: #9e9e9d;
+    border-radius: 50px;
+    align-items: center;
+    justify-content: center;
+    display: inline;
+}
+.div{
+    background-color: rgb(77, 75, 71);
+    margin-left: 450px;
+    max-width: 700px;
+    border-radius: 50px;
+}
+body{
+   text-align: center;
+}
+h1{
+    color: #fff;
+}
+
+
